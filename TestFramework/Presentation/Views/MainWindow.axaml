@@ -1,0 +1,63 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="TestFramework.Presentation.Views.MainWindow"
+        Title="Calculator Test Framework"
+        Width="1000" Height="600"
+        MinWidth="800" MinHeight="500"
+        WindowStartupLocation="CenterScreen">
+
+  <DockPanel>
+
+    <!-- Status bar -->
+    <Border DockPanel.Dock="Bottom" Background="#F0F0F0" Padding="10,6">
+      <TextBlock x:Name="lblStatus"
+                 Text="Ready. Browse and load JSON config files to begin."
+                 Foreground="DimGray" />
+    </Border>
+
+    <!-- Top panel: file list + buttons -->
+    <Border DockPanel.Dock="Top" Height="160" Padding="10">
+      <Grid ColumnDefinitions="*,210" RowDefinitions="Auto,*">
+
+        <TextBlock Grid.Row="0" Grid.Column="0"
+                   Text="Loaded configuration files:"
+                   Margin="0,0,0,6" />
+
+        <ListBox Grid.Row="1" Grid.Column="0"
+                 x:Name="lstFiles"
+                 Margin="0,0,10,0" />
+
+        <StackPanel Grid.Row="0" Grid.RowSpan="2" Grid.Column="1"
+                    Spacing="10" VerticalAlignment="Center">
+          <Button x:Name="btnBrowse"
+                  Content="Browse &amp; Load JSON files..."
+                  Background="SteelBlue" Foreground="White"
+                  HorizontalAlignment="Stretch" Height="36"
+                  Click="btnBrowse_Click" />
+          <Button x:Name="btnRun"
+                  Content="Run Tests"
+                  Background="SeaGreen" Foreground="White"
+                  HorizontalAlignment="Stretch" Height="36"
+                  Click="btnRun_Click" />
+        </StackPanel>
+
+      </Grid>
+    </Border>
+
+    <!-- Results label -->
+    <TextBlock DockPanel.Dock="Top"
+               Text="Test Results:"
+               FontWeight="Bold"
+               Margin="10,4" />
+
+    <!-- Results grid -->
+    <DataGrid x:Name="dgvResults"
+              IsReadOnly="True"
+              AutoGenerateColumns="True"
+              GridLinesVisibility="Horizontal"
+              HorizontalScrollBarVisibility="Auto"
+              VerticalScrollBarVisibility="Auto"
+              LoadingRow="dgvResults_LoadingRow" />
+
+  </DockPanel>
+</Window>
