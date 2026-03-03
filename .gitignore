@@ -1,0 +1,128 @@
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+!**/packages/repositories.config
+
+# NuGet restore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# MSTest
+TestResult.xml
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Benchmark results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Publish output
+publish/
+PublishOutput/
+
+# ASP.NET
+ScaffoldingReadMe.txt
+
+# Blazor WASM
+wwwroot/_framework/
+
+# Entity Framework Core migrations (keep source, ignore snapshots if desired)
+# Uncomment the next line if you want to ignore all EF migrations
+# **/Migrations/
+
+# Secrets / config overrides
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+*.pfx
+*.p12
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node / npm (if used in Blazor projects)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+lcov.info
+
+# Docker
+docker-compose.override.yml
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# JetBrains Rider / ReSharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# StyleCop
+StyleCopReport.xml
+
+# SonarQube
+.sonarqube/
+
+# Azure Functions
+local.settings.json

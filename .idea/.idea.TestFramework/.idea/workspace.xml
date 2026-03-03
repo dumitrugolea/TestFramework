@@ -7,7 +7,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50fcb582-a10f-42e0-ad39-0541f7d933aa" name="Changes" comment="" />
+    <list default="true" id="50fcb582-a10f-42e0-ad39-0541f7d933aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/bin/Debug/net10.0/TestFramework.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/bin/Debug/net10.0/TestFramework.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/bin/Debug/net10.0/TestFramework.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/bin/Debug/net10.0/TestFramework.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/bin/Debug/net10.0/TestFramework.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/bin/Debug/net10.0/TestFramework.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/bin/Debug/net10.0/TestFramework.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/bin/Debug/net10.0/TestFramework.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/ref/TestFramework.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/ref/TestFramework.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/refint/TestFramework.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Application/obj/Debug/net10.0/refint/TestFramework.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/bin/Debug/net10.0/TestFramework.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/bin/Debug/net10.0/TestFramework.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/bin/Debug/net10.0/TestFramework.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/bin/Debug/net10.0/TestFramework.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/TestFramework.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/ref/TestFramework.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/ref/TestFramework.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/refint/TestFramework.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Domain/obj/Debug/net10.0/refint/TestFramework.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/bin/Debug/net10.0/TestFramework.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/TestFramework.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/ref/TestFramework.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/ref/TestFramework.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/refint/TestFramework.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework.Infrastructure/obj/Debug/net10.0/refint/TestFramework.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/net10.0/TestFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/TestFramework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/ref/TestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/ref/TestFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/refint/TestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/net10.0/refint/TestFramework.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +146,7 @@
       <workItem from="1772547183938" duration="4537000" />
       <workItem from="1772552154116" duration="471000" />
       <workItem from="1772552691053" duration="620000" />
+      <workItem from="1772553490547" duration="82000" />
     </task>
     <servers />
   </component>

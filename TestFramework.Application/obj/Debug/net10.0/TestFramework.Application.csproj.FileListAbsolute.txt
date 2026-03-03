@@ -28,3 +28,4 @@
 /home/om/Documente/REPOS/TestFramework/TestFramework.Application/obj/Debug/net10.0/refint/TestFramework.Application.dll
 /home/om/Documente/REPOS/TestFramework/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.pdb
 /home/om/Documente/REPOS/TestFramework/TestFramework.Application/obj/Debug/net10.0/ref/TestFramework.Application.dll
+/home/om/Documente/REPOS/TestFramework/TestFramework.Application/obj/Debug/net10.0/TestFramework.Application.sourcelink.json
